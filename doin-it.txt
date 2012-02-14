@@ -1,14 +1,12 @@
-Redwood Grove, Samuel P. Taylor State Park
+MATERIALS
+=========
+ocarinae (x8)
+djembe (x1)
+music stand (x1)
 
-materials:
-???? in place of an altar
-tandem bicycle (?)
-iPhones with iPhone Ocarina for wedding party
-robot ringbearer
-....
-
-cast:
-SAM - a late-twenties fellow who got his ministerial credentials online
+CAST
+====
+SAM - our solemn minister of incredible solemnity
 EVAN - a mid-twenties fellow who is engaged to
 VALKYRIE - an early-twenties girl
 DAVE - EVAN's best man
@@ -19,41 +17,166 @@ ETHAN - a bridesdude
 VENUS - VALKYRIE's sister, a bridesmaid
 PAT - a bridesdude/groomsman
 JEFF - a groomsman/bridesdude
-DAD - VALKYRIE's father, a mid-forties engineer
+ANGELA - VALKYRIE's mother
+HOWARD - VALKYRIE's father
+LYN - EVAN's mother
+GORDON - EVAN's father
+TRAVIS - roommate
+TASKA - roommate
 
-SAM is standing where the altar would be, if we had one.  Instead, there is a ???? there for him.  Two clusters of people stand on either side of a rather larger-than-usual aisle, but not separated by bride's friends and groom's friends, because that is silly.
+SETUP
+=====
 
-The bridesfolk and groomsfolk follow their leaders in from the sides to line up next to SAM.
-song: ????
+The ceremony takes place in the horseshoe-shaped area at the Samuel P. Taylor Redwood Grove Group Picnic Area. EVAN, VALKYRIE, SAM, and the wedding party will arrive 30-60 minutes in advance to set up as follows:
 
-EVAN parkours in from behind some trees (not sure what the scenery looks like around there yet... presumably we can just set up some picnic tables or something if we're in a jam).
+There are two sections separated by the aisle, which extends from the hollowed-out stump to the space between the two trees at back. All guests face the river, such that the sections slope gently down to the stage area at front.
 
-EVAN: Whooeeey, what a day for a wedding!  I can't wait to...
+Four picnic tables are placed in the seating area: two at front for seating and two at back for easier viewing (e.g. by standing on top). These picnic tables also help spatially define the sections and aisle.
 
-DAVE touches him on the shoulder and gives him the "shush finger".  DAVE points down the aisle.
+Guests sit/stand in the sections, but are explicitly NOT separated by groom/bride affiliation.
 
-WEDDING PARTY play Saria's song on their iPhone ocarinas.
+In place of a podium, there is a hollowed-out stump to indicate the central point. EVAN's djembe is placed beside the music stand at this point; the music stand has the service firmly attached to it.
 
-VALKYRIE bicycles down the aisle (will this work in the dress?  I dunno.) on a tandem bicycle with DAD riding in front.  They arrive at the place where SAM and EVAN are standing and dismount.
+EVAN, LYN, and GORDON wait down by the river. The wedding party wait off to the sides with large tomes in their hands, and SAM, VALKYRIE, ANGELA, and HOWARD wait between the trees at the back of the aisle.
 
-DAD kisses VALKYRIE on the cheeks and passes the bike to GIORGIA to hold.  DAD and VALKYRIE hug.  DAD goes to join the crowd.
+There are four seats reserved for LYN, GORDON, ANGELA, and HOWARD at the front of the sections, possibly on the benches. This makes it logistically easier for them to sit down later.
 
-include:
+SCENE ONE
+=========
 
-EVAN and VALKYRIE say some pretty stuff.
+SAM, JEFF, and PAT step forwards between the trees, SAM leading with his flowing priest robe and portentous gait. As they near the back benches, the rest of the wedding party enter from the sides to form lines walking up the aisle as in this diagram:
 
-Rings brought by robotic ringbearer.
-song: ????
+      VENUS     ETHAN     GIORGIA 
+SAM   PAT       JEFF
+      NEIL      NINA      DAVE
 
-EVAN and VALKYRIE exchange rings.
+The wedding party chant "Pie Jesu" repeatedly, periodically whacking themselves in the forehead with their tomes:
 
-EVAN and VALKYRIE's families get involved.  There are several "traditional" things that might happen here, including stuff like sharing of water glasses (maybe wine glasses, I don't remember or care) and lighting a candle together.  I think these things usually are just done by those in the position of EVAN and VALKYRIE, but we can include everyone.  It'll be fun!
-song: ????
+Pie Jesu Domine, (whack)
+Dona eis requiem. (whack)
+(Repeat as necessary)
 
-WEDDING PARTY does a squaredance?  We have 8 people, after all.
+As they pass the front benches, SAM heads for the hollowed-out stump while PAT, VENUS, ETHAN, GIORGIA fan out to the right and JEFF, NEIL, NINA, DAVE fan out to the left. The final position is as in this diagram:
+
+                                SAM
+JEFF    NEIL    NINA    DAVE          GIORGIA   ETHAN   VENUS   PAT
+
+except that the lines fan slightly towards the sections.
+
+SCENE TWO
+=========
+
+SAM raises his hand. The wedding party place their books at their feet in unison.
+
+EVAN comes sauntering up from the river in his dapper vest/jacket combo, led by LYN and GORDON. As they get to the top of the stairs, DAVE, NINA, NEIL, and JEFF move aside to let them through, then close the line after them. LYN and GORDON step off to the side, and EVAN steps forwards to say:
+
+EVAN: (slaps knee) Mighty fine day for a wedding! I do say...
+
+DAVE walks up from behind, touches him on the shoulder, and gives him the "shush finger". DAVE points down the aisle as GIORGIA speaks in a Navi-like voice:
+
+GIORGIA: Hey! Listen!
+
+EVAN moves back behind LYN and GORDON and they all back up to the left side, allowing the sections a full view of JEFF, NEIL, NINA, and DAVE. SAM plays a drum in time to the opening for Saria's Song, marking the first (two? four? eight?) bars before the wedding party play the melody on their iPhone ocarinas.
+
+As they start into the melody, VALKYRIE bicycles slowly down the aisle (if this works in the dress, and if we have bicycles) behind ANGELA and HOWARD walking. Once they pass the front benches, ANGELA and HOWARD stop. VALKYRIE dismounts, handing the bike to GIORGIA who moves it out of the way before standing back in the wedding party line. 
+
+EVAN, LYN, and GORDON move forward to meet VALKYRIE, ANGELA, and HOWARD in the middle:
+
+      LYN       HOWARD
+EVAN                    VALKYRIE
+      GORDON    ANGELA
+
+LYN and HOWARD embrace, as do GORDON and ANGELA, and then all four parents return to the sections.
+
+The rendition of Saria's Song abruptly ends as SAM raps on the drum three times before placing it back on the ground.
+
+SCENE THREE
+===========
+
+SAM: We are gathered here today to celebrate the union of EVAN and VALKYRIE. Where once they were disjoint, slowly their intersection grew; now, on this joyous occasion, we complete their overlap.
+
+EVAN and VALKYRIE now read a poem:
+
+BOTH: We remember...
+EVAN: I remember the copper-stained waterfall of 
+VALKYRIE: Yerba Buena drumming against our heads,
+BOTH: our arms locked in ecstatic embrace. We remember...
+VALKYRIE: I remember the last dusk light over
+EVAN: Shoreline as we lay covered in
+BOTH: the neon-streaked Bay night.
+
+BOTH: All these years, all these distances. We have found, at last, a place to meet,
+
+EVAN: a place that, outliving us both,
+VALKYRIE: will in turn remember us,
+EVAN: our joys, our sorrows,
+VALKYRIE: our passions, our thoughts,
+BOTH: crossed together under these ancient redwoods,
+BOTH: our memory etched deep in their rings.
+
+TRAVIS and TASKA drive the crazy light-and-sound car down the aisle with the two rings attached securely to the top. As it reaches the front, EVAN and VALKYRIE take each other's rings.
+
+SAM: To find your true love is to meet the other side of yourself; to join in the union of marriage is to make those two sides one. EVAN and VALKYRIE will now present each other with rings they crafted for each other in the shape of the Mobius strip, an enduring symbol of this union.
+
+EVAN and VALKYRIE exchange rings, putting them on each other.
+
+SCENE FOUR
+==========
+
+SAM: Repeat after me:
+
+We, EVAN and VALKYRIE,
+take each other to have and to hold from this day forward,
+for better or for worse,
+for richer, for poorer,
+in sickness and in health,
+to love and to cherish;
+from this day forward until death do us part.
+
+SAM then reads aloud the following passage.
+
+Now you will feel no rain, for each of you will be shelter for the other. 
+Now you will feel no cold, for each of you will be warmth to the other. 
+Now there will be no loneliness, for each of you will be companion to the other. 
+Now you are two persons, but there is only one life before you. 
+May beauty surround you both in the journey ahead and through all the years, 
+May happiness be your companion and your days together be good and long upon the earth.
+
+SAM: Do you promise to uphold these vows, protect safety, and continue having awesome adventures together so long as you both shall live?
+
+BOTH: We do.
+
+SAM: Then, by the power invested in me by the Internet, I hereby pronounce you tost and tost. You may now kiss each other.
 
 EVAN and VALKYRIE kiss.
 
-EVAN and VALKYRIE sign some papers.
+SCENE FIVE
+==========
 
-EVAN and VALKYRIE ride about on the tandem bicycle, back to the MEXICAN PARTY BUS.
+SAM: As we have joined these two today, so too do we join ourselves. By being here today, we make a commitment to be there for each other, to share in each others' lives, to serve as friends and family to each other.
+
+The wedding party switch sides, each member embracing the person opposite them in the line as they meet in the middle.
+
+SAM: As they have met, we now ask all of you to meet together in the bond of friendship and family.
+
+Now the sections intermingle, embracing each other as they swap sides. (This might have to be led by a few seed people, or mass confusion could result.)
+
+SCENE SIX
+=========
+
+(SAM should probably say something official-sounding here to wrap things up.)
+
+EVAN, VALKYRIE, and SAM sign the marriage licence with (who?) as witnesses.
+
+CLEANUP
+=======
+
+The four picnic tables are moved back. We pick up any trash left behind before getting into the Mexican Party Bus and heading for the Outdoor Art Club.
+
+
+possible things:
+
+- wine-sharing ceremony
+- hands on bike chain
+- dip hands in water
+- intermingling of hands
