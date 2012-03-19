@@ -1,14 +1,19 @@
 MATERIALS
 =========
 ocarinae (x8)
+old programming books (x8)
 djembe (x1)
 music stand (x1)
+sound-and-light car (x1)
+scripts (x11)
 
 CAST
 ====
 SAM - our solemn minister of incredible solemnity
+
 EVAN - a mid-twenties fellow who is engaged to
 VALKYRIE - an early-twenties girl
+
 DAVE - EVAN's best man
 GIORGIA - VALKYRIE's maid of honour
 NINA - a groomslady
@@ -17,10 +22,12 @@ ETHAN - a bridesbro
 VENUS - VALKYRIE's sister, a bridesmaid
 PAT - a bridesbro/groomsman
 JEFF - a groomsman/bridesbro
+
 ANGELA - VALKYRIE's mother
 HOWARD - VALKYRIE's father
 LYN - EVAN's mother
 GORDON - EVAN's father
+
 TRAVIS - roommate
 TASKA - roommate
 
@@ -76,9 +83,9 @@ DAVE walks up from behind, touches him on the shoulder, and gives him the "shush
 
 GIORGIA: Hey! Listen!
 
-EVAN moves back behind LYN and GORDON and they all back up to the left side, allowing the sections a full view of JEFF, NEIL, NINA, and DAVE. SAM plays a drum in time to the opening for Saria's Song, marking the first (two? four? eight?) bars before the wedding party play the melody on their ocarinas.
+EVAN moves back behind LYN and GORDON and they all back up to the left side, allowing the sections a full view of JEFF, NEIL, NINA, and DAVE. SAM plays a drum in time to the opening for Saria's Song, marking the first bar before the wedding party play the melody on their ocarinas.
 
-As they start into the melody, VALKYRIE walks behind ANGELA and HOWARD down the aisle. Once they pass the front benches, they stop.
+As they start into the melody, VALKYRIE walks behind ANGELA and HOWARD down the aisle. The melody loops until they pass the front benches, at which point it abruptly ends as SAM raps on the drum three times before placing it back on the ground.
 
 EVAN, LYN, and GORDON move forward to meet VALKYRIE, ANGELA, and HOWARD in the middle:
 
@@ -87,8 +94,6 @@ EVAN                    VALKYRIE
       GORDON    ANGELA
 
 LYN and HOWARD embrace, as do GORDON and ANGELA, and then all four parents return to the sections.
-
-The rendition of Saria's Song abruptly ends as SAM raps on the drum three times before placing it back on the ground.
 
 SCENE THREE
 ===========
@@ -174,22 +179,11 @@ SAM: As they have met, we now ask all of you to meet together in the bond of fri
 
 Now the sections intermingle, embracing each other as they swap sides. (This might have to be led by a few seed people, or mass confusion could result.)
 
-SCENE SIX
-=========
+SCENE SIX/CLEANUP
+=================
 
-(SAM should probably say something official-sounding here to wrap things up.)
+EVAN, VALKYRIE, and SAM sign the marriage licence with their parents (one each) as witnesses.
 
-EVAN, VALKYRIE, and SAM sign the marriage licence with (who?) as witnesses.
-
-CLEANUP
-=======
+SAM makes an announcement to close the ceremony, get everyone on the bus, etc.
 
 The four picnic tables are moved back. We pick up any trash left behind before getting into the Mexican Party Bus and heading for the Outdoor Art Club.
-
-
-possible things:
-
-- wine-sharing ceremony
-- hands on bike chain
-- dip hands in water
-- intermingling of hands
